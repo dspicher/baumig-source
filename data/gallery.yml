@@ -1,0 +1,51 @@
+title: "Galerie"
+style: "style1 big lightbox onscroll-fade-in"
+pictures:
+  - image: "images/gallery/gallery001.jpg"
+    thumb: "images/gallery/gallery001.jpg"
+
+  - image: "images/gallery/gallery002.jpg"
+    thumb: "images/gallery/gallery002.jpg"
+
+  - image: "images/gallery/gallery003.jpg"
+    thumb: "images/gallery/gallery003.jpg"
+
+  - image: "images/gallery/gallery004.jpg"
+    thumb: "images/gallery/gallery004.jpg"
+
+  - image: "images/gallery/gallery005.jpg"
+    thumb: "images/gallery/gallery005.jpg"
+
+  - image: "images/gallery/gallery006.jpg"
+    thumb: "images/gallery/gallery006_cropped.jpg"
+
+  - image: "images/gallery/gallery007.jpg"
+    thumb: "images/gallery/gallery007.jpg"
+
+  - image: "images/gallery/gallery008.jpg"
+    thumb: "images/gallery/gallery008_cropped.jpg"
+
+  - image: "images/gallery/gallery009.jpg"
+    thumb: "images/gallery/gallery009.jpg"
+
+  - image: "images/gallery/gallery010.jpg"
+    thumb: "images/gallery/gallery010.jpg"
+
+  - image: "images/gallery/gallery011.jpg"
+    thumb: "images/gallery/gallery011_cropped.jpg"
+
+  - image: "images/gallery/gallery012.jpg"
+    thumb: "images/gallery/gallery012.jpg"
+
+  - image: "images/gallery/gallery013.jpg"
+    thumb: "images/gallery/gallery013.jpg"
+
+  - image: "images/gallery/gallery014.jpg"
+    thumb: "images/gallery/gallery014.jpg"
+
+  - image: "images/gallery/gallery015.jpg"
+    thumb: "images/gallery/gallery015_cropped.jpg"
+
+  - image: "images/gallery/gallery016.jpg"
+    thumb: "images/gallery/gallery016.jpg"
+    

@@ -1,0 +1,20 @@
+<!-- Gallery -->
+<section class="wrapper style1 align-center">
+    <div class="inner">
+        <h2>{{ .title }}</h2>
+    </div>
+
+    <!-- Gallery -->
+    <div class="gallery {{ .style }}">
+        {{ range .pictures }}
+            {{ partial "picture" . }}
+        {{ end }}
+    </div>
+</section>
+
+<section>
+<a href="images/gallery/gallery001.jpg" data-lightbox="roadtrip"><img src="images/gallery/thumb.gallery001.jpg"></a>
+<a href="images/gallery/gallery002.jpg" data-lightbox="roadtrip"><img src="images/gallery/thumb.gallery002.jpg"></a>
+<a href="images/gallery/gallery003.jpg" data-lightbox="roadtrip"><img src="images/gallery/thumb.gallery003.jpg"></a>
+<a href="images/gallery/gallery004.jpg" data-lightbox="roadtrip"><img src="images/gallery/thumb.gallery004.jpg"></a>
+</section>
