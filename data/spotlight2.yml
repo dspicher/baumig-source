@@ -1,5 +1,5 @@
 ####################### Spotlight #########################
-style: "style1 orient-left content-align-left image-position-center"
+style: "style1 orient-right content-align-left image-position-center text-block"
 content: |
   <p>Die verschiedenen Lichteffekte im Innenleben des Baums deuten die aufsteigenden Nährstoffbahnen von den Wurzeln bis zum Blattwerk an und symbolisieren damit die wichtige Umwandlung von CO2 zu Sauerstoff.</p><p>Bäume wachsen dem Licht entgegen in die Höhe. Sie sind nicht Wesen der Schnelle und Kurzlebigkeit; als Dinosaurier der Pflanzenwelt behaupten und entwickeln sie sich über Jahrhunderte am selben Standort.</p>
 image: "images/spotlights/wall.jpeg"

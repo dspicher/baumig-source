@@ -1,0 +1,53 @@
+body {
+  font-display: swap;
+}
+
+.banner__title {
+  font-size: 5rem;
+  white-space: nowrap;
+}
+
+p.major {
+  font-size: 2rem;
+}
+
+.spotlight.text-block {
+  margin: 4rem 0;
+  font-size: 22px;
+}
+
+.spotlight.text-block .image {
+  width: 50%;
+}
+
+.spotlight.text-block .content {
+  width: 50%;
+  padding: 3rem 4rem;
+}
+
+@media (max-width: 768px) {
+  .banner__title {
+    font-size: 42px;
+  }
+  
+  p.major {
+    font-size: 22px;
+  }
+
+  .banner.style5.fullscreen {
+    min-height: 80vh;
+  }
+
+  .spotlight.text-block {
+    font-size: 18px;
+  }
+
+  .spotlight.text-block .image {
+    width: 100%;
+  }
+
+  .spotlight.text-block .content {
+    width: 100%;
+    padding: 1rem;
+  }
+}

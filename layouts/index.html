@@ -4,8 +4,9 @@
 	{{ partial "spotlight" site.Data.spotlight1 }}
 	{{ partial "spotlight" site.Data.spotlight2 }}
 	{{ partial "spotlight" site.Data.spotlight3 }}
-	{{ partial "elements" . }}
-	{{ partial "gallery" site.Data.gallery }}
+	{{ partial "items" site.Data.items }}
+	{{ partial "gallery" . }}
+	<!-- {{ partial "gallery2" . }} -->
 	{{ partial "template/footer" . }}
 
 {{ end }}

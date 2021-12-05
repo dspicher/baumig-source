@@ -1,5 +1,5 @@
 ####################### Spotlight #########################
-style: "style1 orient-right content-align-left image-position-center"
+style: "style1 orient-left content-align-left image-position-center text-block"
 content: |
   <p>Das Dach über der Baumkrone steht für die Schutzbedürftigkeit unserer Bäume und symbolisiert auch unsere Abhängigkeit von gesunden Bäumen. Sie sind die besten Erzeuger von Sauerstoff, wertvollen Früchten, Baustoff und Energie. Auf der Innenseite zeigt das Dach die Lebensuhr, die jedem Baum inne ist: seine Jahrringe.</p> <p><em>DIE GEDANKEN SIND FREI:</em> diese Notizen enthalten meine persönlichen Gedanken, die mich während der Entstehung des Baums begleitet haben; Deinen eigenen Gedanken und Interpretationen sind keine Grenzen gesetzt.</p>
 image: "images/spotlights/roof.JPG"
