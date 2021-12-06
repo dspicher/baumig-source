@@ -1,6 +1,6 @@
 <!-- Banner -->
 <section class="banner {{ .style }}">
-    <div class="content">
+    <div class="content" style="margin-bottom: 0;">
         {{ with .title }}<h1 class="banner__title">{{ . }}</h1>{{ end }}
         {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
         {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
